@@ -74,7 +74,7 @@
 
 * [胡猛先生在2025年北大价值投资课上的分享](nei-rong-fen-xiang/hu-meng-xian-sheng-zai-2025-nian-bei-da-jia-zhi-tou-zi-ke-shang-de-fen-xiang.md)
 * [20分钟讲完4年才懂的经济学](nei-rong-fen-xiang/20-fen-zhong-jiang-wan-4-nian-cai-dong-de-jing-ji-xue.md)
-* [Page 4](nei-rong-fen-xiang/page-4.md)
+* [戴维斯双击和双杀](nei-rong-fen-xiang/dai-wei-si-shuang-ji-he-shuang-sha.md)
 
 ## Group 3
 
