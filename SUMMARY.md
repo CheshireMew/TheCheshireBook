@@ -49,6 +49,10 @@
 ## 交易心理学
 
 * [扛单心理分析](jiao-yi-xin-li-xue/kang-dan-xin-li-fen-xi.md)
+* [交易时如何避免“处置效应”和“禀赋效应”](jiao-yi-xin-li-xue/jiao-yi-shi-ru-he-bi-mian-chu-zhi-xiao-ying-he-bing-fu-xiao-ying.md)
+* [在交易中规避热手谬误和赌徒谬误](jiao-yi-xin-li-xue/zai-jiao-yi-zhong-gui-bi-re-shou-miu-wu-he-du-tu-miu-wu.md)
+* [交易中的情绪：完整指南](jiao-yi-xin-li-xue/jiao-yi-zhong-de-qing-xu-wan-zheng-zhi-nan.md)
+* [交易偏见完整指南](jiao-yi-xin-li-xue/jiao-yi-pian-jian-wan-zheng-zhi-nan.md)
 
 ## 理财
 
