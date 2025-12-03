@@ -28,6 +28,7 @@
 * [如何通过交易所数据判断多空](jiao-yi/ru-he-tong-guo-jiao-yi-suo-shu-ju-pan-duan-duo-kong.md)
 * [如何在交易所中借贷？](jiao-yi/ru-he-zai-jiao-yi-suo-zhong-jie-dai.md)
 * [加密新手应该避免的交易策略和工具](jiao-yi/jia-mi-xin-shou-ying-gai-bi-mian-de-jiao-yi-ce-le-he-gong-ju.md)
+* [左侧交易和右侧交易](jiao-yi/zuo-ce-jiao-yi-he-you-ce-jiao-yi.md)
 
 ## 定投
 

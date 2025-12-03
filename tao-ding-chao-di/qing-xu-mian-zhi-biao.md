@@ -6,7 +6,7 @@
 
 低于 20 逐步加仓，高于 70 逐步减仓，行情往往跟情绪反着来
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **山寨币季节指数**
 
@@ -14,13 +14,13 @@
 
 以上两个指标可以在 Coinglass 查询
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **大户多空比（持仓量）**
 
 看看大户用脚投票了哪个方向，不能单一使用，往往要配合其他指标
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. **资金费率**
 

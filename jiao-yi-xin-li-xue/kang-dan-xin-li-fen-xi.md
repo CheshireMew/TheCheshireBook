@@ -43,7 +43,7 @@
 
 从而心理学家推断出：人类倾向于喜欢自己拥有的东西，当我们产生拥有一件东西的感觉后，该东西的价值也会在我们心中相应地提升。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
