@@ -55,6 +55,7 @@
 * [在交易中规避热手谬误和赌徒谬误](jiao-yi-xin-li-xue/zai-jiao-yi-zhong-gui-bi-re-shou-miu-wu-he-du-tu-miu-wu.md)
 * [交易中的情绪：完整指南](jiao-yi-xin-li-xue/jiao-yi-zhong-de-qing-xu-wan-zheng-zhi-nan.md)
 * [交易偏见完整指南](jiao-yi-xin-li-xue/jiao-yi-pian-jian-wan-zheng-zhi-nan.md)
+* [常见认知偏差手册](jiao-yi-xin-li-xue/chang-jian-ren-zhi-pian-cha-shou-ce.md)
 
 ## 理财
 
